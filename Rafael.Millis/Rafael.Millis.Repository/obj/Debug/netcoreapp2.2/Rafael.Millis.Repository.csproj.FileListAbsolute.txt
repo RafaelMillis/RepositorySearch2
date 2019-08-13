@@ -1,0 +1,146 @@
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\Rafael.Millis.Repository.deps.json
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\Rafael.Millis.Repository.dll
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Web.Extensions.dll
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Web.Services.dll
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Data.Services.Design.dll
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.ServiceModel.dll
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Design.dll
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Data.Linq.dll
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Web.ApplicationServices.dll
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.ServiceModel.Activation.dll
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Data.Services.Client.dll
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Data.Entity.dll
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Windows.Forms.dll
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.EnterpriseServices.dll
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.DirectoryServices.dll
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Xaml.dll
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.IdentityModel.dll
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.IdentityModel.Selectors.dll
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Messaging.dll
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Runtime.DurableInstancing.dll
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Data.OracleClient.dll
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\Accessibility.dll
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Drawing.Design.dll
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Web.RegularExpressions.dll
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Runtime.Serialization.Formatters.Soap.dll
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.ServiceModel.Activities.dll
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Activities.dll
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Deployment.dll
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Runtime.Remoting.dll
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Configuration.Install.dll
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Activities.DurableInstancing.dll
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Web.Extensions.xml
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Web.Services.xml
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Data.Services.Design.xml
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.ServiceModel.xml
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Design.xml
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Data.Linq.xml
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Web.ApplicationServices.xml
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.ServiceModel.Activation.xml
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Data.Services.Client.xml
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Data.Entity.xml
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Windows.Forms.xml
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.EnterpriseServices.xml
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.DirectoryServices.xml
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Xaml.xml
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.IdentityModel.xml
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.IdentityModel.Selectors.xml
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Messaging.xml
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Runtime.DurableInstancing.xml
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Data.OracleClient.xml
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\Accessibility.xml
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Drawing.Design.xml
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Web.RegularExpressions.xml
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Runtime.Serialization.Formatters.Soap.xml
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.ServiceModel.Activities.xml
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Activities.xml
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Deployment.xml
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Runtime.Remoting.xml
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Configuration.Install.xml
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Activities.DurableInstancing.xml
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.EnterpriseServices.Wrapper.dll
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\obj\Debug\netcoreapp2.2\Rafael.Millis.Repository.csprojAssemblyReference.cache
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\obj\Debug\netcoreapp2.2\Rafael.Millis.Repository.csproj.CoreCompileInputs.cache
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\obj\Debug\netcoreapp2.2\Rafael.Millis.Repository.AssemblyInfoInputs.cache
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\obj\Debug\netcoreapp2.2\Rafael.Millis.Repository.AssemblyInfo.cs
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\obj\Debug\netcoreapp2.2\Rafael.Millis.Repository.csproj.CopyComplete
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\Rafael.Millis.Repository.pdb
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\obj\Debug\netcoreapp2.2\Rafael.Millis.Repository.dll
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\obj\Debug\netcoreapp2.2\Rafael.Millis.Repository.pdb
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\Rafael.Millis.Movies.Models.dll
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\Rafael.Millis.Movies.Models.pdb
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\Rafael.Millis.Repository.deps.json
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\Rafael.Millis.Repository.dll
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\Rafael.Millis.Repository.pdb
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\Rafael.Millis.Movies.Models.dll
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Web.Extensions.dll
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Web.Services.dll
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Data.Services.Design.dll
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.ServiceModel.dll
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Design.dll
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Data.Linq.dll
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Web.ApplicationServices.dll
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.ServiceModel.Activation.dll
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Data.Services.Client.dll
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Data.Entity.dll
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Windows.Forms.dll
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.EnterpriseServices.dll
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.DirectoryServices.dll
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Xaml.dll
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.IdentityModel.dll
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.IdentityModel.Selectors.dll
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Messaging.dll
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Runtime.DurableInstancing.dll
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Data.OracleClient.dll
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\Accessibility.dll
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Drawing.Design.dll
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Web.RegularExpressions.dll
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Runtime.Serialization.Formatters.Soap.dll
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.ServiceModel.Activities.dll
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Activities.dll
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Deployment.dll
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Runtime.Remoting.dll
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Configuration.Install.dll
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Activities.DurableInstancing.dll
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\Rafael.Millis.Movies.Models.pdb
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Web.Extensions.xml
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Web.Services.xml
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Data.Services.Design.xml
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.ServiceModel.xml
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Design.xml
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Data.Linq.xml
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Web.ApplicationServices.xml
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.ServiceModel.Activation.xml
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Data.Services.Client.xml
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Data.Entity.xml
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Windows.Forms.xml
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.EnterpriseServices.xml
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.DirectoryServices.xml
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Xaml.xml
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.IdentityModel.xml
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.IdentityModel.Selectors.xml
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Messaging.xml
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Runtime.DurableInstancing.xml
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Data.OracleClient.xml
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\Accessibility.xml
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Drawing.Design.xml
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Web.RegularExpressions.xml
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Runtime.Serialization.Formatters.Soap.xml
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.ServiceModel.Activities.xml
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Activities.xml
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Deployment.xml
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Runtime.Remoting.xml
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Configuration.Install.xml
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.Activities.DurableInstancing.xml
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\bin\Debug\netcoreapp2.2\System.EnterpriseServices.Wrapper.dll
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\obj\Debug\netcoreapp2.2\Rafael.Millis.Repository.csprojAssemblyReference.cache
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\obj\Debug\netcoreapp2.2\Rafael.Millis.Repository.csproj.CoreCompileInputs.cache
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\obj\Debug\netcoreapp2.2\Rafael.Millis.Repository.AssemblyInfoInputs.cache
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\obj\Debug\netcoreapp2.2\Rafael.Millis.Repository.AssemblyInfo.cs
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\obj\Debug\netcoreapp2.2\Rafael.Millis.Repository.csproj.CopyComplete
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\obj\Debug\netcoreapp2.2\Rafael.Millis.Repository.dll
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Repository\obj\Debug\netcoreapp2.2\Rafael.Millis.Repository.pdb

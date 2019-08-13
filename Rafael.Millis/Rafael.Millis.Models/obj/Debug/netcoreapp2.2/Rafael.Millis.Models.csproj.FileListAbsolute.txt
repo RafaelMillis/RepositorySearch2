@@ -1,0 +1,9 @@
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Models\bin\Debug\netcoreapp2.2\Rafael.Millis.Models.deps.json
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Models\bin\Debug\netcoreapp2.2\Rafael.Millis.Models.dll
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Models\bin\Debug\netcoreapp2.2\Rafael.Millis.Models.pdb
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Models\obj\Debug\netcoreapp2.2\Rafael.Millis.Models.csproj.CoreCompileInputs.cache
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Models\obj\Debug\netcoreapp2.2\Rafael.Millis.Models.AssemblyInfoInputs.cache
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Models\obj\Debug\netcoreapp2.2\Rafael.Millis.Models.AssemblyInfo.cs
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Models\obj\Debug\netcoreapp2.2\Rafael.Millis.Models.dll
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Models\obj\Debug\netcoreapp2.2\Rafael.Millis.Models.pdb
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Models\obj\Debug\netcoreapp2.2\Rafael.Millis.Models.csprojAssemblyReference.cache

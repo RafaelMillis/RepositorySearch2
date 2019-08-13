@@ -1,0 +1,40 @@
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.MoviesWebAPI\bin\Debug\netcoreapp2.2\Rafael.Millis.MoviesWebAPI.deps.json
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.MoviesWebAPI\bin\Debug\netcoreapp2.2\Rafael.Millis.MoviesWebAPI.runtimeconfig.json
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.MoviesWebAPI\bin\Debug\netcoreapp2.2\Rafael.Millis.MoviesWebAPI.runtimeconfig.dev.json
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.MoviesWebAPI\bin\Debug\netcoreapp2.2\Rafael.Millis.MoviesWebAPI.dll
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.MoviesWebAPI\bin\Debug\netcoreapp2.2\Rafael.Millis.MoviesWebAPI.pdb
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.MoviesWebAPI\obj\Debug\netcoreapp2.2\Rafael.Millis.MoviesWebAPI.csprojAssemblyReference.cache
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.MoviesWebAPI\obj\Debug\netcoreapp2.2\Rafael.Millis.MoviesWebAPI.csproj.CoreCompileInputs.cache
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.MoviesWebAPI\obj\Debug\netcoreapp2.2\Rafael.Millis.MoviesWebAPI.RazorAssemblyInfo.cache
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.MoviesWebAPI\obj\Debug\netcoreapp2.2\Rafael.Millis.MoviesWebAPI.RazorAssemblyInfo.cs
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.MoviesWebAPI\obj\Debug\netcoreapp2.2\Rafael.Millis.MoviesWebAPI.AssemblyInfoInputs.cache
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.MoviesWebAPI\obj\Debug\netcoreapp2.2\Rafael.Millis.MoviesWebAPI.AssemblyInfo.cs
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.MoviesWebAPI\obj\Debug\netcoreapp2.2\Rafael.Millis.MoviesWebAPI.RazorTargetAssemblyInfo.cache
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.MoviesWebAPI\obj\Debug\netcoreapp2.2\Rafael.Millis.MoviesWebAPI.dll
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.MoviesWebAPI\obj\Debug\netcoreapp2.2\Rafael.Millis.MoviesWebAPI.pdb
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.MoviesWebAPI\bin\Debug\netcoreapp2.2\Rafael.Millis.Repository.dll
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.MoviesWebAPI\bin\Debug\netcoreapp2.2\Rafael.Millis.Repository.pdb
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.MoviesWebAPI\obj\Debug\netcoreapp2.2\Rafael.Millis.MoviesWebAPI.csproj.CopyComplete
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.MoviesWebAPI\bin\Debug\netcoreapp2.2\Data\movies.json
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.MoviesWebAPI\bin\Debug\netcoreapp2.2\Rafael.Millis.Movies.Models.dll
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.MoviesWebAPI\bin\Debug\netcoreapp2.2\Rafael.Millis.Movies.Models.pdb
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.MoviesWebAPI\bin\Debug\netcoreapp2.2\Data\movies.json
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.MoviesWebAPI\bin\Debug\netcoreapp2.2\Rafael.Millis.MoviesWebAPI.deps.json
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.MoviesWebAPI\bin\Debug\netcoreapp2.2\Rafael.Millis.MoviesWebAPI.runtimeconfig.json
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.MoviesWebAPI\bin\Debug\netcoreapp2.2\Rafael.Millis.MoviesWebAPI.runtimeconfig.dev.json
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.MoviesWebAPI\bin\Debug\netcoreapp2.2\Rafael.Millis.MoviesWebAPI.dll
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.MoviesWebAPI\bin\Debug\netcoreapp2.2\Rafael.Millis.MoviesWebAPI.pdb
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.MoviesWebAPI\bin\Debug\netcoreapp2.2\Rafael.Millis.Movies.Models.dll
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.MoviesWebAPI\bin\Debug\netcoreapp2.2\Rafael.Millis.Repository.dll
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.MoviesWebAPI\bin\Debug\netcoreapp2.2\Rafael.Millis.Repository.pdb
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.MoviesWebAPI\bin\Debug\netcoreapp2.2\Rafael.Millis.Movies.Models.pdb
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.MoviesWebAPI\obj\Debug\netcoreapp2.2\Rafael.Millis.MoviesWebAPI.csprojAssemblyReference.cache
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.MoviesWebAPI\obj\Debug\netcoreapp2.2\Rafael.Millis.MoviesWebAPI.csproj.CoreCompileInputs.cache
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.MoviesWebAPI\obj\Debug\netcoreapp2.2\Rafael.Millis.MoviesWebAPI.RazorAssemblyInfo.cache
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.MoviesWebAPI\obj\Debug\netcoreapp2.2\Rafael.Millis.MoviesWebAPI.RazorAssemblyInfo.cs
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.MoviesWebAPI\obj\Debug\netcoreapp2.2\Rafael.Millis.MoviesWebAPI.AssemblyInfoInputs.cache
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.MoviesWebAPI\obj\Debug\netcoreapp2.2\Rafael.Millis.MoviesWebAPI.AssemblyInfo.cs
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.MoviesWebAPI\obj\Debug\netcoreapp2.2\Rafael.Millis.MoviesWebAPI.RazorTargetAssemblyInfo.cache
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.MoviesWebAPI\obj\Debug\netcoreapp2.2\Rafael.Millis.MoviesWebAPI.csproj.CopyComplete
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.MoviesWebAPI\obj\Debug\netcoreapp2.2\Rafael.Millis.MoviesWebAPI.dll
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.MoviesWebAPI\obj\Debug\netcoreapp2.2\Rafael.Millis.MoviesWebAPI.pdb

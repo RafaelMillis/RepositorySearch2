@@ -1,0 +1,42 @@
+<div><h2>Search a Movie</h2> Created by: Rafael Millis</div>
+Implemented by the following technologies: on Client Bootsrap, AngularJS and on Server .Net Core <br /><br />
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-2">
+      <p>
+        Search:
+        <input ng-model="$ctrl.query" placeholder="Enter search here" autofocus />
+      </p>
+      <p>
+        Sort by:
+        <select class="rep-ddl-sort" ng-model="$ctrl.orderProp">
+          <option value="name">Name</option>
+          <option value="series">Series</option>
+          <option value="season">Season</option>
+        </select>
+      </p>
+
+    </div>
+    <div class="col-md-10">
+      <div ng-repeat="movie in $ctrl.movies | filter:$ctrl.query | orderBy:$ctrl.orderProp">
+        <div ng-class="{ 'row': ($index + 1) % 1 == 0 }">
+            <div class="col-md-12 col-xl-12 col-lg-12 rep-movie">
+                <div class="rep-image-frame rep-text-side">
+                    <div class="thumbnail" ><a id="imgLink" ng-href="#!/movies/{{movie.id}}">
+                      <img ng-src="{{movie.image}}" alt="{{movie.name}}" class="thumb" />
+                    </a></div>        
+                  </div>
+                <div class="rep-image-details">
+                    <div class="rep-image-details-content">
+                        <div class="rep-title" >{{movie.name}}</div>
+                        <div><span class="rep-subtitle">Season:</span> {{movie.season}}</div>
+                        <div><span class="rep-subtitle">Views: </span> {{movie.views}}</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+  </div>
+</div>

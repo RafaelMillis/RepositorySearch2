@@ -1,0 +1,30 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "The Lion King Movie",
+      "image": "/images/lionking.jpg",
+      "series": "series 3",
+      "season": 3,
+      "views": 100000
+    },
+    {
+      "id": 2,
+      "name": "The Matrix Movie",
+      "image": "/images/thematrix.jpg",
+      "series": "series 1",
+      "season": 2,
+      "views": 5000000
+    },
+    {
+      "id": 3,
+      "name": "Break Through Movie",
+      "image": "/images/through.jpg",
+      "series": "series 2",
+      "season": 1,
+      "views": 30000
+    }
+  ]
+}
+
+

@@ -1,0 +1,16 @@
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Models\bin\Debug\netcoreapp2.2\Rafael.Millis.Movies.Models.deps.json
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Models\bin\Debug\netcoreapp2.2\Rafael.Millis.Movies.Models.dll
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Models\bin\Debug\netcoreapp2.2\Rafael.Millis.Movies.Models.pdb
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Models\obj\Debug\netcoreapp2.2\Rafael.Millis.Movies.Models.csproj.CoreCompileInputs.cache
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Models\obj\Debug\netcoreapp2.2\Rafael.Millis.Movies.Models.AssemblyInfoInputs.cache
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Models\obj\Debug\netcoreapp2.2\Rafael.Millis.Movies.Models.AssemblyInfo.cs
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Models\obj\Debug\netcoreapp2.2\Rafael.Millis.Movies.Models.dll
+F:\tmp\angularjs\Repository\Rafael.Millis\Rafael.Millis.Models\obj\Debug\netcoreapp2.2\Rafael.Millis.Movies.Models.pdb
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Models\bin\Debug\netcoreapp2.2\Rafael.Millis.Movies.Models.deps.json
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Models\bin\Debug\netcoreapp2.2\Rafael.Millis.Movies.Models.dll
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Models\bin\Debug\netcoreapp2.2\Rafael.Millis.Movies.Models.pdb
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Models\obj\Debug\netcoreapp2.2\Rafael.Millis.Movies.Models.csproj.CoreCompileInputs.cache
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Models\obj\Debug\netcoreapp2.2\Rafael.Millis.Movies.Models.AssemblyInfoInputs.cache
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Models\obj\Debug\netcoreapp2.2\Rafael.Millis.Movies.Models.AssemblyInfo.cs
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Models\obj\Debug\netcoreapp2.2\Rafael.Millis.Movies.Models.dll
+F:\tmp\angularjs\Repository\RepositoryJS Client With Net Core\Rafael.Millis\Rafael.Millis.Models\obj\Debug\netcoreapp2.2\Rafael.Millis.Movies.Models.pdb
